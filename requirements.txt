@@ -2,6 +2,7 @@ OpenCC
 Pillow
 Pyrogram
 TgCrypto
+mpv
 youtube_dl
 requests
 youtube_search
