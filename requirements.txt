@@ -8,7 +8,6 @@ youtube_search
 aiohttp
 aiofiles
 ffmpeg 
-fontconfig 
 freetype 
 fribidi 
 giflib
